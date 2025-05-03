@@ -1,0 +1,21 @@
+.funnel-display-h1 {
+    font-family: "Funnel Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .self-image{
+    border-radius: 5%;
+  }
+  body{
+    background-color: #F1BA88;
+  }
+  .jumbotron{
+    background-color: #E9F5BE;
+  }
+  .footer{
+    background-color: #E9F5BE;
+  }
+  .btn{
+    background-color: #81E7AF;
+  }
